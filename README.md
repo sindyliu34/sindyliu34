@@ -1,4 +1,4 @@
-Welcome to my proile! 👋
+Welcome to my profile! 👋
 
 - 🔭 I’m currently working on something exciting!
 - 🤖 I’m currently learning JavaScript and Python.
